@@ -1,0 +1,440 @@
+101559989 bytes	2023-01-19 12:22:24.0000000000	/home/abdelwahed/Bureau/DESKTOP/live_coding_with_yocto/Live Coding with Yocto Project #20 bare metal.mp4
+93928325 bytes	2023-01-19 12:19:39.0000000000	/home/abdelwahed/Bureau/DESKTOP/live_coding_with_yocto/Live Coding with Yocto Project #19 ptests.mp4
+112555170 bytes	2023-01-19 12:17:37.0000000000	/home/abdelwahed/Bureau/DESKTOP/live_coding_with_yocto/Live coding with Yocto Project 18 Multiconfigs.mp4
+51516596 bytes	2023-01-16 12:01:51.0000000000	/home/abdelwahed/Bureau/DESKTOP/live_coding_with_yocto/yocto/Yocto Linux #6 - Application Deployment.mp4
+73737910 bytes	2023-01-16 11:44:30.0000000000	/home/abdelwahed/Bureau/DESKTOP/live_coding_with_yocto/yocto/Yocto Linux #3 - Hello World Kernel Module.mp4
+89371915 bytes	2023-01-16 11:25:15.0000000000	/home/abdelwahed/Bureau/DESKTOP/live_coding_with_yocto/yocto/Yocto Linux #4 - Kernel Module read, write, ioctl.mp4
+82857653 bytes	2023-01-16 11:58:41.0000000000	/home/abdelwahed/Bureau/DESKTOP/live_coding_with_yocto/yocto/Yocto Linux #5 - Final kernel driver.mp4
+71350204 bytes	2023-01-16 11:32:07.0000000000	/home/abdelwahed/Bureau/DESKTOP/live_coding_with_yocto/yocto/Yocto Linux #1 - Initial setup and ZedBoard bring-up.mp4
+96892411 bytes	2023-01-19 14:01:45.0000000000	/home/abdelwahed/Bureau/DESKTOP/live_coding_with_yocto/presentation_yocto/“Introduction to the Yocto Project and Bitbake, Part 1” by Behan Webster.mp4
+57468103 bytes	2023-01-19 14:02:40.0000000000	/home/abdelwahed/Bureau/DESKTOP/live_coding_with_yocto/presentation_yocto/Yocto Project and OpenEmbedded A Collection of Best Practices - Alexandre Belloni, Bootlin.mp4
+126664268 bytes	2023-01-19 11:24:30.0000000000	/home/abdelwahed/Bureau/DESKTOP/live_coding_with_yocto/vues/Live Coding with Yocto Project #6 kernel handling and development.mp4
+152148165 bytes	2023-01-19 11:01:04.0000000000	/home/abdelwahed/Bureau/DESKTOP/live_coding_with_yocto/vues/Live Coding with Yocto Project #1 V2.0 Getting started (current LTS release Dunfell edition).mp4
+145861630 bytes	2023-01-19 11:14:49.0000000000	/home/abdelwahed/Bureau/DESKTOP/live_coding_with_yocto/vues/Live Coding with Yocto Project #4 SDKs.mp4
+96293326 bytes	2023-01-19 11:06:32.0000000000	/home/abdelwahed/Bureau/DESKTOP/live_coding_with_yocto/vues/Live Coding with Yocto Project #2 simple layer, custom image and devtool.mp4
+134783284 bytes	2023-01-19 11:47:46.0000000000	/home/abdelwahed/Bureau/DESKTOP/live_coding_with_yocto/vues/Live Coding with Yocto Project #11 Getting started with CC++ development..mp4
+120456462 bytes	2023-01-19 11:27:00.0000000000	/home/abdelwahed/Bureau/DESKTOP/live_coding_with_yocto/vues/Live Coding with Yocto Project #7 distros, machines, images and local.conf.mp4
+114182823 bytes	2023-01-19 11:13:12.0000000000	/home/abdelwahed/Bureau/DESKTOP/live_coding_with_yocto/vues/Live Coding with Yocto Project #3 package dependencies and splitting.mp4
+106167461 bytes	2023-01-19 12:11:03.0000000000	/home/abdelwahed/Bureau/DESKTOP/live_coding_with_yocto/vues/Live coding with Yocto Project #0x10(16) WSL.mp4
+145077403 bytes	2023-01-19 11:38:41.0000000000	/home/abdelwahed/Bureau/DESKTOP/live_coding_with_yocto/vues/Live Coding with Yocto Project #8 real hardware, Beaglebone Black and WIC.mp4
+109179991 bytes	2023-01-19 11:42:56.0000000000	/home/abdelwahed/Bureau/DESKTOP/live_coding_with_yocto/vues/Live Coding with Yocto Project #10 building and customizing containers.mp4
+127867716 bytes	2023-01-19 11:16:20.0000000000	/home/abdelwahed/Bureau/DESKTOP/live_coding_with_yocto/vues/Live Coding with Yocto Project #5 development workflows.mp4
+144566017 bytes	2023-01-19 11:57:48.0000000000	/home/abdelwahed/Bureau/DESKTOP/live_coding_with_yocto/Live Coding with Yocto Project #12 Project setup and kas.mp4
+88206226 bytes	2023-01-19 12:16:07.0000000000	/home/abdelwahed/Bureau/DESKTOP/live_coding_with_yocto/Live coding with Yocto Project 17 Recipes Reloaded.mp4
+141153492 bytes	2023-01-19 12:04:21.0000000000	/home/abdelwahed/Bureau/DESKTOP/live_coding_with_yocto/Live Coding with Yocto Project #13 Building an out of tree kernel module.mp4
+147678046 bytes	2023-01-19 12:06:46.0000000000	/home/abdelwahed/Bureau/DESKTOP/live_coding_with_yocto/Live Coding with Yocto Project #14 variables and assignments.mp4
+9999601 bytes	2023-01-15 14:22:01.0000000000	/home/abdelwahed/Bureau/DESKTOP/music/Cheb Houssem Sbabi Lamour -©-الشاب حسام  سبابي لمور.mp4
+91986701 bytes	2023-01-01 18:17:33.0000000000	/home/abdelwahed/Bureau/DESKTOP/music/Best Of Cheb Houssem..mp4
+14415991 bytes	2022-12-22 13:12:38.0000000000	/home/abdelwahed/Bureau/DESKTOP/music/Hamza Namira - Fady Shewaya  حمزة نمرة - فاضي شوية.mp4
+23197896 bytes	2022-12-22 13:09:19.0000000000	/home/abdelwahed/Bureau/DESKTOP/music/Lyrical Chammak Challo  Ra One  ShahRukh Khan  Kareena Kapoor.mp4
+9144514 bytes	2023-01-15 14:21:59.0000000000	/home/abdelwahed/Bureau/DESKTOP/music/Cheb Houssem - Nti 3achqek s3ib I  الشاب حسام - أنت عشقك صعيب.mp4
+14409169 bytes	2023-02-14 11:57:38.0000000000	/home/abdelwahed/Bureau/DESKTOP/music/Nancy Ajram - Ah W Noss (Official Music Video)  نانسي عجرم - اه و نص.mp4
+20360471 bytes	2022-12-27 18:38:10.0000000000	/home/abdelwahed/Bureau/DESKTOP/music/Asma Lmnawar ... Andou Zine - Video Clip  اسما لمنور ... عندو الزين - فيديو كليب.mp4
+17560885 bytes	2023-01-14 14:57:58.0000000000	/home/abdelwahed/Bureau/DESKTOP/music/Hatim Ammor - Bla 3onwane (Official Music Video) l حاتم عمور - بلا عنوان.mp4
+24997489 bytes	2023-01-15 14:21:57.0000000000	/home/abdelwahed/Bureau/DESKTOP/music/Cheb Houssem -  malgré tfarekna [ La Memoire ] Avec Kacimo  الشاب حسام.mp4
+7298814 bytes	2023-01-31 11:10:28.0000000000	/home/abdelwahed/Bureau/DESKTOP/music/Hamza Namira - Dari Ya Alby  حمزة نمرة - داري يا قلبي.mp4
+4791160 bytes	2022-12-22 13:09:22.0000000000	/home/abdelwahed/Bureau/DESKTOP/music/Sherine - Ana Fel Gharam  شيرين -  انا في الغرام.mp4
+20222231 bytes	2023-01-15 14:21:25.0000000000	/home/abdelwahed/Bureau/DESKTOP/music/Cheb Bilal - Khalini Saket الشاب بلال - خليني ساكت.mp4
+11279475 bytes	2022-12-22 13:09:11.0000000000	/home/abdelwahed/Bureau/DESKTOP/music/Albi El Gamed - Yahia Alaa [Official Lyric Video] - EXCLUSIVE  - قلبي الجامد - يحيي علاء 2021.mp4
+81829128 bytes	2023-01-27 13:44:50.0000000000	/home/abdelwahed/Bureau/DESKTOP/music/Saad Lamjarred Best Songs of 2022  أفضل أغاني سعد لامجاردأفضل أغاني س  أفضل 20 أغنية ساد لمجرد.mp4
+8016253 bytes	2022-12-22 13:09:12.0000000000	/home/abdelwahed/Bureau/DESKTOP/music/El 3achk mamnou3.mp4
+33881417 bytes	2022-12-22 13:09:21.0000000000	/home/abdelwahed/Bureau/DESKTOP/music/Majida El Roumi - Kalimat  ماجدة الرومي - كلمات.mp4
+47023158 bytes	2022-12-22 13:09:15.0000000000	/home/abdelwahed/Bureau/DESKTOP/music/Hatim Ammor - Hsebni Temaa (Official Clip) - ( حاتم عمور - حسبني طماع (فيديو كليب.mp4
+20446179 bytes	2022-12-22 13:12:43.0000000000	/home/abdelwahed/Bureau/DESKTOP/music/Tito & Bondoa - مهرجان اول ما سحبت حزامي   سلامات يا هوا  تيتو - بندق - زياد الايراني.mp4
+102236072 bytes	2022-12-25 17:16:27.0000000000	/home/abdelwahed/Bureau/DESKTOP/SEO_training/FREE Singapore SEO Course (4.1 - Keyword Research Foundation).mp4
+1250343142 bytes	2022-12-25 17:15:11.0000000000	/home/abdelwahed/Bureau/DESKTOP/SEO_training/SEO Stratégies de Netlinking - Linkbaiting & Linkbuildin.mp4
+93109726 bytes	2022-12-25 17:16:32.0000000000	/home/abdelwahed/Bureau/DESKTOP/SEO_training/FREE Singapore SEO Course (4.2 - Keyword Research for Existing Pages).mp4
+195177441 bytes	2022-12-25 17:15:50.0000000000	/home/abdelwahed/Bureau/DESKTOP/SEO_training/vus/FREE Singapore SEO Course (3.2 - Technical Ecommerce SEO Audit).mp4
+324410980 bytes	2022-12-25 17:16:51.0000000000	/home/abdelwahed/Bureau/DESKTOP/SEO_training/vus/Live SEO Work for Business Website (Search Engine OptimizationSEO).mp4
+26815716 bytes	2022-12-25 17:15:16.0000000000	/home/abdelwahed/Bureau/DESKTOP/SEO_training/vus/FREE Singapore SEO Course (2.1 - Google Properties).mp4
+61717708 bytes	2022-12-25 17:15:20.0000000000	/home/abdelwahed/Bureau/DESKTOP/SEO_training/vus/FREE Singapore SEO Course (2.3 - Google Search Console Audit).mp4
+31593118 bytes	2022-12-25 17:15:14.0000000000	/home/abdelwahed/Bureau/DESKTOP/SEO_training/vus/FREE Singapore SEO Course (1 - Course Introduction).mp4
+281629464 bytes	2022-12-25 17:16:20.0000000000	/home/abdelwahed/Bureau/DESKTOP/SEO_training/vus/FREE Singapore SEO Course (3.4 - Technical Ecommerce SEO Audit).mp4
+95820917 bytes	2022-12-25 17:15:26.0000000000	/home/abdelwahed/Bureau/DESKTOP/SEO_training/vus/FREE Singapore SEO Course (2.4 - Google Business Profile Audit).mp4
+233848382 bytes	2022-12-25 17:16:04.0000000000	/home/abdelwahed/Bureau/DESKTOP/SEO_training/vus/FREE Singapore SEO Course (3.3 - Technical Ecommerce SEO Audit).mp4
+124092639 bytes	2022-12-25 17:15:38.0000000000	/home/abdelwahed/Bureau/DESKTOP/SEO_training/vus/FREE Singapore SEO Course (3.1 - Technical SEO Introduction).mp4
+70154206 bytes	2022-12-25 17:15:30.0000000000	/home/abdelwahed/Bureau/DESKTOP/SEO_training/vus/FREE Singapore SEO Course (2 - Foundation & Fundamentals).mp4
+170315896 bytes	2023-01-30 13:31:20.0000000000	/home/abdelwahed/Bureau/DESKTOP/today19012023/30012023/BOOTCAMP/System Design for Beginners Course.mp4
+413505911 bytes	2023-01-30 11:52:41.0000000000	/home/abdelwahed/Bureau/DESKTOP/today19012023/30012023/BOOTCAMP/Microservice Architecture and System Design with Python & Kubernetes – Full Course.mp4
+44189803 bytes	2023-01-30 14:26:13.0000000000	/home/abdelwahed/Bureau/DESKTOP/today19012023/30012023/APPRENDRE_A_APPRENDRE/?? Comment d?velopper sa m?moire  ?? Apprendre ? apprendre #2.mp4
+25580203 bytes	2023-01-30 14:15:16.0000000000	/home/abdelwahed/Bureau/DESKTOP/today19012023/30012023/APPRENDRE_A_APPRENDRE/?? Comment travailler son attention et am?liorer sa concentration  ?? Apprendre ? apprendre #1.mp4
+37988041 bytes	2023-01-30 14:38:05.0000000000	/home/abdelwahed/Bureau/DESKTOP/today19012023/30012023/APPRENDRE_A_APPRENDRE/?? Comment booster sa motivation et lutter contre la procrastination  ?? Apprendre ? apprendre #3.mp4
+22810111 bytes	2023-01-30 12:30:50.0000000000	/home/abdelwahed/Bureau/DESKTOP/today19012023/30012023/UTILISATION_CHATGPT/CHATGPT ne se trompe jamais ! en Français.mp4
+28741177 bytes	2023-01-30 13:55:15.0000000000	/home/abdelwahed/Bureau/DESKTOP/today19012023/30012023/UTILISATION_CHATGPT/DigOpp CTO uses ChatGPT to do his job.mp4
+18047833 bytes	2023-01-30 13:48:44.0000000000	/home/abdelwahed/Bureau/DESKTOP/today19012023/30012023/UTILISATION_CHATGPT/Using Google Sheets and ChatGPT to Build the PERFECT RESUME.mp4
+4006631 bytes	2023-01-30 13:20:24.0000000000	/home/abdelwahed/Bureau/DESKTOP/today19012023/30012023/UTILISATION_CHATGPT/POEME créé par CHATGPT en Français.mp4
+28183711 bytes	2023-01-21 20:41:25.0000000000	/home/abdelwahed/Bureau/DESKTOP/today19012023/30012023/UTILISATION_CHATGPT/vues/Chat GPT va-t-il révolutionner le monde du travail .mp4
+23042340 bytes	2023-01-30 12:50:05.0000000000	/home/abdelwahed/Bureau/DESKTOP/today19012023/30012023/UTILISATION_CHATGPT/vues/Configuration switch Cisco IOS avec IA chatGPT en Français.mp4
+14281507 bytes	2023-01-30 12:47:11.0000000000	/home/abdelwahed/Bureau/DESKTOP/today19012023/30012023/UTILISATION_CHATGPT/vues/CHATGPT le bétisier des médias sur lIA en Français.mp4
+22923270 bytes	2023-01-30 12:23:33.0000000000	/home/abdelwahed/Bureau/DESKTOP/today19012023/30012023/UTILISATION_CHATGPT/vues/A VOIR AVANT de CODER sur CHATGPT (documentation performance et débug) en Français.mp4
+12896078 bytes	2023-01-30 13:09:53.0000000000	/home/abdelwahed/Bureau/DESKTOP/today19012023/30012023/UTILISATION_CHATGPT/CHATGPT Tableur Excel Libre Office formules en Français.mp4
+25918112 bytes	2023-01-30 12:25:40.0000000000	/home/abdelwahed/Bureau/DESKTOP/today19012023/30012023/UTILISATION_CHATGPT/CHATGPT fourberie et mensonge utilisation des concepts l ors d un dialogue en Français.mp4
+16397171 bytes	2023-01-30 11:29:17.0000000000	/home/abdelwahed/Bureau/DESKTOP/today19012023/30012023/UTILISATION_CHATGPT/How To Write Ebooks With Chat GPT + Drag And Drop Designer.mp4
+6702809 bytes	2023-01-30 13:07:19.0000000000	/home/abdelwahed/Bureau/DESKTOP/today19012023/30012023/UTILISATION_CHATGPT/CHATGPT le bétisier des médias sur lIA en Français suite 3.mp4
+15695596 bytes	2023-01-30 12:45:53.0000000000	/home/abdelwahed/Bureau/DESKTOP/today19012023/30012023/UTILISATION_CHATGPT/CHATGPT le bétisier des médias Français sur lIA en Français.mp4
+43165524 bytes	2023-01-15 12:39:04.3834997220	/home/abdelwahed/Bureau/DESKTOP/today19012023/30012023/file extraction using binwalk.mp4
+15813343 bytes	2023-01-24 04:14:31.7547906900	/home/abdelwahed/Bureau/DESKTOP/today19012023/30012023/Use AI To Create Images With Python  Tutorial For Beginners (OpenAI DALL-E API).mp4
+56444481 bytes	2023-01-30 11:37:21.0000000000	/home/abdelwahed/Bureau/DESKTOP/today19012023/30012023/Jai codé à fond pendant 1 an. Voilà ce que jai appris..mp4
+7495592 bytes	2023-01-30 11:23:01.0000000000	/home/abdelwahed/Bureau/DESKTOP/today19012023/30012023/How to Install Python Anaconda in Ubuntu 16.04.mp4
+57610772 bytes	2023-01-30 11:35:19.0000000000	/home/abdelwahed/Bureau/DESKTOP/today19012023/30012023/Tools every Developer need in 2022 - Configure Linux for web full stack development.mp4
+39084878 bytes	2023-01-24 11:23:55.0000000000	/home/abdelwahed/Bureau/DESKTOP/today19012023/24012023/linux_internals/Linux Internals  Interprocess Communication.mp4
+61801127 bytes	2023-01-24 11:28:01.0000000000	/home/abdelwahed/Bureau/DESKTOP/today19012023/24012023/linux_internals/vus/Linux Internals Memory Management.mp4
+98448203 bytes	2023-01-24 11:03:51.0000000000	/home/abdelwahed/Bureau/DESKTOP/today19012023/24012023/vus/OpenWRT for beginners - Full basic configuration video tutorial.mp4
+32600705 bytes	2023-01-24 10:45:46.0000000000	/home/abdelwahed/Bureau/DESKTOP/today19012023/24012023/vus/الطريقة الصحيحة لتمرير فلاش OpenWrt لجهاز فودافون وربطه بألفا.mp4
+69600033 bytes	2023-01-26 11:58:14.0000000000	/home/abdelwahed/Bureau/DESKTOP/today19012023/26012023/“Introduction to Layers, Images and more, Part 2” by Tom King.mp4
+43240724 bytes	2023-01-26 12:30:46.0000000000	/home/abdelwahed/Bureau/DESKTOP/today19012023/26012023/Trouver un Travail 10X Plus Vite avec ChatGPT.mp4
+127522747 bytes	2023-01-26 11:47:03.0000000000	/home/abdelwahed/Bureau/DESKTOP/today19012023/26012023/“Introduction to the Yocto Project and Bitbake, Part 2” by Behan Webster.mp4
+95543841 bytes	2023-01-26 12:10:19.0000000000	/home/abdelwahed/Bureau/DESKTOP/today19012023/26012023/Using Devtool to Streamline Your Yocto Project Workflow - Tim Orling, Intel.mp4
+28286185 bytes	2023-01-26 14:36:29.0000000000	/home/abdelwahed/Bureau/DESKTOP/today19012023/26012023/Make Windows Terminal look amazing!.mp4
+41120757 bytes	2023-01-26 12:50:09.0000000000	/home/abdelwahed/Bureau/DESKTOP/today19012023/26012023/Getting Started with the Yocto Project - New Developer Screencast Tutorial.mp4
+123236053 bytes	2023-01-26 11:36:49.0000000000	/home/abdelwahed/Bureau/DESKTOP/today19012023/26012023/“Introduction to Layers, Images and more, Part 1” by Tom King.mp4
+41260028 bytes	2023-01-26 11:49:06.0000000000	/home/abdelwahed/Bureau/DESKTOP/today19012023/26012023/What Small Teams Should Know when Building Embedded Linux Systems - Gregory Fong, Virgin Galactic.mp4
+24208884 bytes	2023-01-26 12:29:52.0000000000	/home/abdelwahed/Bureau/DESKTOP/today19012023/26012023/Extracting Firmware from Embedded Devices (SPI NOR Flash) ⚡.mp4
+37463413 bytes	2023-01-26 11:54:00.0000000000	/home/abdelwahed/Bureau/DESKTOP/today19012023/26012023/“A brief history of OpenEmbedded and the Yocto Project” by Philip Balister.mp4
+748647605 bytes	2023-01-19 17:56:36.0000000000	/home/abdelwahed/Bureau/DESKTOP/today19012023/26012023/Family.History.Mysteries.Buried.Past.2023.720p.PCOK.WEB-DL.MyCima.world.mp4
+60581647 bytes	2023-01-26 12:39:34.0000000000	/home/abdelwahed/Bureau/DESKTOP/today19012023/26012023/I Tried Making $1,000 Using ChatGPT (7 Days).mp4
+39396553 bytes	2023-01-26 12:06:31.0000000000	/home/abdelwahed/Bureau/DESKTOP/today19012023/26012023/“Remote access to IoT devices Common needs and approaches” by Eystein Stenberg.mp4
+42846302 bytes	2023-01-26 12:02:52.0000000000	/home/abdelwahed/Bureau/DESKTOP/today19012023/26012023/“Embedded Linux on CM4 Carrier Boards, X86 and STM32 Boards with Yocto” by Lakshantha Dissanayake.mp4
+75322924 bytes	2023-01-26 14:21:55.0000000000	/home/abdelwahed/Bureau/DESKTOP/today19012023/26012023/We Built This $1,000 E-book with Chat GPT.mp4
+96892411 bytes	2023-01-26 11:41:09.0000000000	/home/abdelwahed/Bureau/DESKTOP/today19012023/26012023/“Introduction to the Yocto Project and Bitbake, Part 1” by Behan Webster.mp4
+160222463 bytes	2023-01-27 14:23:01.0000000000	/home/abdelwahed/Bureau/DESKTOP/today19012023/27012023/Advice for Writing Small Programs in C.mp4
+15935193 bytes	2023-01-26 12:00:36.0000000000	/home/abdelwahed/Bureau/DESKTOP/today19012023/27012023/“meta-flatpak Flatpak in Yocto, Yocto in Flatpak” by Sam Thursfield.mp4
+77397429 bytes	2023-01-27 12:05:24.0000000000	/home/abdelwahed/Bureau/DESKTOP/today19012023/27012023/Chat GPT Coding - Make A Profitable Trading Strategy In Five Minutes!.mp4
+61414759 bytes	2023-01-27 11:59:30.0000000000	/home/abdelwahed/Bureau/DESKTOP/today19012023/27012023/I Built a Trading Bot with ChatGPT.mp4
+50813665 bytes	2023-01-27 17:34:44.0000000000	/home/abdelwahed/Bureau/DESKTOP/today19012023/27012023/From Project to Profit Commercial Open Source Software Licensing and Business Models.mp4
+386338422 bytes	2023-01-25 10:01:03.0000000000	/home/abdelwahed/Bureau/DESKTOP/today19012023/27012023/Coding Livestream - Creating an Online Chat App w Python!.mp4
+161909852 bytes	2023-01-25 09:30:03.0000000000	/home/abdelwahed/Bureau/DESKTOP/today19012023/27012023/Data Science Live Coding.mp4
+119153397 bytes	2023-01-26 11:28:06.0000000000	/home/abdelwahed/Bureau/DESKTOP/today19012023/27012023/DEF CON 24 - Hardware Hacking Village - Matt DuHarte - Basic Firmware Extraction.mp4
+46865918 bytes	2023-01-19 12:36:06.0000000000	/home/abdelwahed/Bureau/DESKTOP/today19012023/vues/First look - ChatGPT + WolframAlpha (GPT-3.5 and WolframAlpha via LangChain by James Weaver).mp4
+51711855 bytes	2023-01-19 12:12:06.0000000000	/home/abdelwahed/Bureau/DESKTOP/today19012023/vues/ChatGPT Tutorial for Developers - 38 Ways to 10x Your Productivity.mp4
+37002672 bytes	2023-01-21 08:35:13.0000000000	/home/abdelwahed/Bureau/DESKTOP/today19012023/vues/Could ChatGPT and other AI Chatbots replace human jobs  DW Business Special.mp4
+26990753 bytes	2023-01-19 13:18:57.0000000000	/home/abdelwahed/Bureau/DESKTOP/today19012023/vues/Why is OpenAIs ChatGPT terrifying A Senior Software Engineer explains a disturbing new hypothesis.mp4
+295494437 bytes	2023-01-22 08:30:36.0000000000	/home/abdelwahed/Bureau/DESKTOP/today19012023/C/Pointers in C  C++ [Full Course].mp4
+351743340 bytes	2023-01-26 13:36:53.0000000000	/home/abdelwahed/Bureau/DESKTOP/today19012023/C/Live Coding Stream Word Searches in C (Part 1).mp4
+333033422 bytes	2023-01-26 14:02:18.0000000000	/home/abdelwahed/Bureau/DESKTOP/today19012023/C/Live Coding Stream Word Searches in C (Part 2).mp4
+170331922 bytes	2023-01-26 14:14:44.0000000000	/home/abdelwahed/Bureau/DESKTOP/today19012023/C/How I program C.mp4
+44932031 bytes	2023-01-16 12:07:27.0000000000	/home/abdelwahed/Bureau/DESKTOP/today19012023/not_dispatched/Montage vidéo Linux avec Davinci Resolve 17.mp4
+53112220 bytes	2023-01-19 12:42:47.0000000000	/home/abdelwahed/Bureau/DESKTOP/today19012023/not_dispatched/Exploring the Educational Potential of WolframAlpha.mp4
+34284526 bytes	2023-01-17 15:30:40.0000000000	/home/abdelwahed/Bureau/DESKTOP/today19012023/not_dispatched/How to add a system call to Linux Kernel-4.8.8.mp4
+48934597 bytes	2023-01-21 11:30:08.0000000000	/home/abdelwahed/Bureau/DESKTOP/today19012023/not_dispatched/Linux  what is systemd how can I use it (Arabic).mp4
+54295375 bytes	2023-01-19 10:03:19.0000000000	/home/abdelwahed/Bureau/DESKTOP/today19012023/not_dispatched/What are you going to do in 2023 Tops 5 skills to get!.mp4
+52865343 bytes	2023-01-17 15:25:22.0000000000	/home/abdelwahed/Bureau/DESKTOP/today19012023/not_dispatched/Write and Submit your first Linux kernel Patch.mp4
+34069392 bytes	2023-01-23 11:21:01.0000000000	/home/abdelwahed/Bureau/DESKTOP/today19012023/not_dispatched/Introduction to Elixir - A Background and the Primitive Types - Part One.mp4
+35976790 bytes	2023-01-19 10:06:53.0000000000	/home/abdelwahed/Bureau/DESKTOP/today19012023/not_dispatched/MongoDb (Vidéo 33 ) CC3V2 Ex3.mp4
+20480858 bytes	2023-01-17 14:39:02.0000000000	/home/abdelwahed/Bureau/DESKTOP/today19012023/not_dispatched/Python 2 Vs Python 3.mp4
+15202686 bytes	2023-01-18 11:10:52.0000000000	/home/abdelwahed/Bureau/DESKTOP/today19012023/not_dispatched/How to Install phpMyAdmin on Ubuntu 22.04.mp4
+28980387 bytes	2023-01-23 15:05:42.0000000000	/home/abdelwahed/Bureau/DESKTOP/today19012023/not_dispatched/Blue hydrangea embroidery pattern.mp4
+331211051 bytes	2023-01-21 08:48:03.0000000000	/home/abdelwahed/Bureau/DESKTOP/today19012023/not_dispatched/Build and Deploy a Full Stack MERN AI Image Generation App  Midjourney & DALL-E Clone.mp4
+29018514 bytes	2023-01-17 13:42:32.0000000000	/home/abdelwahed/Bureau/DESKTOP/today19012023/not_dispatched/Introduction to Linux Device Drivers   Part 1 The Basics.mp4
+104469962 bytes	2023-01-23 15:02:49.0000000000	/home/abdelwahed/Bureau/DESKTOP/today19012023/not_dispatched/Torturing OpenSSL - Valeria Bertacco.mp4
+71148305 bytes	2023-01-17 15:11:42.0000000000	/home/abdelwahed/Bureau/DESKTOP/today19012023/not_dispatched/Getting pixels on screen on Linux introduction to Kernel Mode Setting - Simon Ser.mp4
+265091759 bytes	2023-01-19 13:03:22.0000000000	/home/abdelwahed/Bureau/DESKTOP/today19012023/not_dispatched/linux_sur_serveur/Linux sur son serveur, comment devenir copain avec le pingouin - PART 1.mp4
+3612725 bytes	2023-01-16 12:42:22.0000000000	/home/abdelwahed/Bureau/DESKTOP/today19012023/not_dispatched/How install libraries in qpython.mp4
+60618555 bytes	2023-01-21 11:39:03.0000000000	/home/abdelwahed/Bureau/DESKTOP/today19012023/not_dispatched/How To Install 32-bit VirtualBox in Linux.mp4
+48751198 bytes	2023-01-16 11:00:32.0000000000	/home/abdelwahed/Bureau/DESKTOP/today19012023/not_dispatched/(Re) Découvrir les outils UNIX (Grégoire Pineau).mp4
+29464456 bytes	2023-01-19 10:16:52.0000000000	/home/abdelwahed/Bureau/DESKTOP/today19012023/not_dispatched/The Only WP CLI Tutorial You’ll Ever Need.mp4
+101527874 bytes	2023-01-19 11:34:01.0000000000	/home/abdelwahed/Bureau/DESKTOP/today19012023/not_dispatched/Master Class on Embedded C Programming-DAY 130  - M K Jeevarajan.mp4
+58657813 bytes	2023-01-16 11:11:16.0000000000	/home/abdelwahed/Bureau/DESKTOP/today19012023/not_dispatched/Passer sur Linux quand on est créateur de contenu  (YouTube, Twitch, DaVinci Resolve).mp4
+29321205 bytes	2023-01-17 13:57:42.0000000000	/home/abdelwahed/Bureau/DESKTOP/today19012023/not_dispatched/linux dma in device drivers.mp4
+23015212 bytes	2023-01-19 13:09:35.0000000000	/home/abdelwahed/Bureau/DESKTOP/today19012023/not_dispatched/Intro to Kernel Hacking - finding things to work on..mp4
+155579788 bytes	2023-01-22 08:35:07.0000000000	/home/abdelwahed/Bureau/DESKTOP/today19012023/not_dispatched/ChatGPT Clone – OpenAI API and React Tutorial.mp4
+26302569 bytes	2023-01-19 10:35:32.0000000000	/home/abdelwahed/Bureau/DESKTOP/today19012023/Embedded_linux/Embedded Linux Concepts  1 [Arabic].mp4
+38012523 bytes	2023-01-16 12:51:31.0000000000	/home/abdelwahed/Bureau/DESKTOP/today19012023/Embedded_linux/Intro to Embedded Programming.mp4
+105574195 bytes	2023-01-16 13:02:17.0000000000	/home/abdelwahed/Bureau/DESKTOP/today19012023/Embedded_linux/Linux Kernel Programming 01 Compile and Boot.mp4
+20430698 bytes	2023-01-19 10:36:43.0000000000	/home/abdelwahed/Bureau/DESKTOP/today19012023/Embedded_linux/2- Embedded Linux Concepts  Companies  Prerequisites.mp4
+24608270 bytes	2023-01-19 10:37:29.0000000000	/home/abdelwahed/Bureau/DESKTOP/today19012023/Embedded_linux/3- Embedded Linux Customization and Embedded System.mp4
+10833116 bytes	2023-01-19 10:43:07.0000000000	/home/abdelwahed/Bureau/DESKTOP/today19012023/Embedded_linux/Nouveau dossier/Structure in C  Fundamentals - Part 1 شرح.mp4
+16795475 bytes	2023-01-19 10:44:47.0000000000	/home/abdelwahed/Bureau/DESKTOP/today19012023/Embedded_linux/Nouveau dossier/Structure in C Part 4  Structure padding and packing شرح.mp4
+10973282 bytes	2023-01-19 10:44:09.0000000000	/home/abdelwahed/Bureau/DESKTOP/today19012023/Embedded_linux/Nouveau dossier/Structure in C  Nested and Self Referential Structure Part 3 شرح.mp4
+17292516 bytes	2023-01-19 10:45:26.0000000000	/home/abdelwahed/Bureau/DESKTOP/today19012023/Embedded_linux/Nouveau dossier/Structure in C part 5  #pragma and attributes with packing شرح.mp4
+11407191 bytes	2023-01-19 10:43:25.0000000000	/home/abdelwahed/Bureau/DESKTOP/today19012023/Embedded_linux/Nouveau dossier/Structure in C  Pointer to structure Part 2 شرح.mp4
+61091853 bytes	2023-01-19 10:46:40.0000000000	/home/abdelwahed/Bureau/DESKTOP/today19012023/Embedded_linux/Embedded System and Embedded Linux.mp4
+173438853 bytes	2022-12-23 15:28:13.0000000000	/home/abdelwahed/Bureau/DESKTOP/today19012023/summns_phone/APPRENDRE PYTHON [TUTO PROGRAMMATION COMPLET DÉBUTANT].mp4
+363245630 bytes	2023-01-07 12:19:54.0000000000	/home/abdelwahed/Bureau/DESKTOP/today19012023/summns_phone/Advance C programming  Linux system programming  Linux kernel internals  Linux live projects.mp4
+94371850 bytes	2023-01-05 12:03:29.0000000000	/home/abdelwahed/Bureau/DESKTOP/today19012023/summns_phone/Adding Variables in LLVM _ C++ _ Compiler Hacking.mp4
+82490457 bytes	2022-12-27 18:42:55.0000000000	/home/abdelwahed/Bureau/DESKTOP/today19012023/summns_phone/Create a Wordpress Website using React   Wordpress RESTFUL API with React w Frontity.mp4
+116171169 bytes	2022-12-23 15:44:44.0000000000	/home/abdelwahed/Bureau/DESKTOP/today19012023/summns_phone/Web Scraping with Python Beautiful Soup Crash Course - تعلم بايثون ويب سكرابينج لكسب المال.mp4
+1637251488 bytes	2022-12-31 18:16:30.0000000000	/home/abdelwahed/Bureau/DESKTOP/today19012023/summns_phone/PS - Apprendre Photoshop comme un pro en seulement 8 heures, par Thierry Dambermont.mp4
+482847009 bytes	2022-12-23 15:42:28.0000000000	/home/abdelwahed/Bureau/DESKTOP/today19012023/summns_phone/APPRENDRE PYTHON DE A à Z.mp4
+204160932 bytes	2022-12-27 18:43:20.0000000000	/home/abdelwahed/Bureau/DESKTOP/today19012023/summns_phone/How To Get Started With PHP, Composer & Laravel (Windows & Mac).mp4
+89467286 bytes	2023-01-14 15:32:28.0000000000	/home/abdelwahed/Bureau/DESKTOP/from_Scratch/vues/Build a LinuxFromScratch System Part 3_ Downloading.mp4
+32086664 bytes	2023-01-14 14:58:33.0000000000	/home/abdelwahed/Bureau/DESKTOP/from_Scratch/vues/Linux Device Drivers Training 01, Simple Loadable Kernel Module.mp4
+464737914 bytes	2023-01-14 15:36:17.0000000000	/home/abdelwahed/Bureau/DESKTOP/from_Scratch/Créez votre site web avec wordpress Formation Complete.mp4
+69791058 bytes	2023-01-14 15:33:42.0000000000	/home/abdelwahed/Bureau/DESKTOP/from_Scratch/linuxfromscratch/Build a LinuxFromScratch System Part 9.5_ Corrections.mp4
+137361086 bytes	2023-01-14 15:32:55.0000000000	/home/abdelwahed/Bureau/DESKTOP/from_Scratch/linuxfromscratch/Build a LinuxFromScratch System Part 6_ Directories, Users and Groups.mp4
+161289704 bytes	2023-01-14 15:34:36.0000000000	/home/abdelwahed/Bureau/DESKTOP/from_Scratch/linuxfromscratch/Build a LinuxFromScratch System Part V-10_ System-V Init, Network.mp4
+192620304 bytes	2023-01-14 15:33:11.0000000000	/home/abdelwahed/Bureau/DESKTOP/from_Scratch/linuxfromscratch/Build a LinuxFromScratch System Part 7_ Finalizing the Build System.mp4
+240715727 bytes	2023-01-14 15:32:42.0000000000	/home/abdelwahed/Bureau/DESKTOP/from_Scratch/linuxfromscratch/Build a LinuxFromScratch System Part 4_ Compiling.mp4
+231760869 bytes	2023-01-14 15:34:56.0000000000	/home/abdelwahed/Bureau/DESKTOP/from_Scratch/linuxfromscratch/Build a LinuxFromScratch System Part V-11_ Kernel + Booting it up!.mp4
+342797126 bytes	2023-01-14 15:35:35.0000000000	/home/abdelwahed/Bureau/DESKTOP/from_Scratch/linuxfromscratch/Context-Free Grammars LL(k) Grammars.mp4
+395916264 bytes	2023-01-14 15:34:21.0000000000	/home/abdelwahed/Bureau/DESKTOP/from_Scratch/linuxfromscratch/Build a LinuxFromScratch System Part 9_ Discussing the Packages + more Compiling.mp4
+121516522 bytes	2023-01-14 15:35:06.0000000000	/home/abdelwahed/Bureau/DESKTOP/from_Scratch/linuxfromscratch/Context-Free Grammars.mp4
+202587519 bytes	2023-01-14 15:33:33.0000000000	/home/abdelwahed/Bureau/DESKTOP/from_Scratch/linuxfromscratch/Build a LinuxFromScratch System Part 8_ Building the Target-System.mp4
+23284794 bytes	2023-01-14 14:58:42.0000000000	/home/abdelwahed/Bureau/DESKTOP/from_Scratch/linux_device_driver/Linux Device Drivers Training 05, Module Parameters.mp4
+45992638 bytes	2023-01-14 14:58:38.0000000000	/home/abdelwahed/Bureau/DESKTOP/from_Scratch/linux_device_driver/Linux Device Drivers Training 03, Modules from Multiple C Files, MODULE_LICENSE(), __init.mp4
+22373635 bytes	2023-01-14 14:58:41.0000000000	/home/abdelwahed/Bureau/DESKTOP/from_Scratch/linux_device_driver/Linux Device Drivers Training 04, Exporting Symbols.mp4
+29018514 bytes	2023-01-14 14:57:59.0000000000	/home/abdelwahed/Bureau/DESKTOP/from_Scratch/linux_device_driver/Introduction to Linux Device Drivers   Part 1 The Basics.mp4
+72098335 bytes	2023-01-14 14:58:47.0000000000	/home/abdelwahed/Bureau/DESKTOP/from_Scratch/linux_device_driver/Linux Device Drivers Training 06, Simple Character Driver.mp4
+29042038 bytes	2023-01-14 14:58:35.0000000000	/home/abdelwahed/Bureau/DESKTOP/from_Scratch/linux_device_driver/Linux Device Drivers Training 02, module_init() and module_exit().mp4
+840913914 bytes	2023-01-14 15:37:29.0000000000	/home/abdelwahed/Bureau/DESKTOP/from_Scratch/LIVE Linux Kernel Driver Development xpad.mp4
+236557410 bytes	2023-01-14 15:37:50.0000000000	/home/abdelwahed/Bureau/DESKTOP/from_Scratch/niveau-script-avancee/Migration d'un site Wordpress vers un nouveau serveur Linux - Christophe Casalegno.mp4
+87275103 bytes	2023-01-14 14:58:57.0000000000	/home/abdelwahed/Bureau/DESKTOP/from_Scratch/niveau-script-avancee/Livecoding bash  surveiller l'enregistrement de noms de domaines - Christophe Casalegno.mp4
+183732239 bytes	2023-01-14 14:59:44.0000000000	/home/abdelwahed/Bureau/DESKTOP/from_Scratch/niveau-script-avancee/vues/Livecoding  écrire un script de backup Linux Fichiers et MySQL en shell BASH (Partie 1).mp4
+10262028 bytes	2023-01-14 14:58:31.0000000000	/home/abdelwahed/Bureau/DESKTOP/from_Scratch/niveau-script-avancee/Les fondements du métier d’infogéreur - Christophe Casalegno.mp4
+103998882 bytes	2023-01-14 14:58:27.0000000000	/home/abdelwahed/Bureau/DESKTOP/from_Scratch/niveau-script-avancee/J'ai traqué ce pirate informatique sur 3 continents ! - Christophe Casalegno.mp4
+362187491 bytes	2023-01-14 14:58:20.0000000000	/home/abdelwahed/Bureau/DESKTOP/from_Scratch/niveau-script-avancee/J'ai sauvé ce Fournisseur d'accès Internet (FAI) d'une attaque informatique - Christophe Casalegno.mp4
+178702061 bytes	2023-01-14 15:01:06.0000000000	/home/abdelwahed/Bureau/DESKTOP/from_Scratch/niveau-script-avancee/Live coding  L'API Pingdom  Solarwinds dans un script SHELL BASH LINUX - Christophe Casalegno.mp4
+56677857 bytes	2023-01-14 14:58:52.0000000000	/home/abdelwahed/Bureau/DESKTOP/from_Scratch/niveau-script-avancee/Livecoding bash _ mesurer la mémoire consommée par des PIDs sous Linux - Christophe Casalegno.mp4
+582001094 bytes	2023-01-14 15:00:41.0000000000	/home/abdelwahed/Bureau/DESKTOP/from_Scratch/niveau-script-avancee/script_backup/Livecoding  écrire un script de backup Linux Fichiers et MySQL  MariaDB en shell BASH (Partie 5).mp4
+250759823 bytes	2023-01-14 14:59:25.0000000000	/home/abdelwahed/Bureau/DESKTOP/from_Scratch/niveau-script-avancee/script_backup/Livecoding _ écrire un script de backup en BASH sous Linux _ on optimise ! (Partie 6).mp4
+160483750 bytes	2023-01-14 14:59:07.0000000000	/home/abdelwahed/Bureau/DESKTOP/from_Scratch/niveau-script-avancee/script_backup/Livecoding _ écrire un script de backup en BASH sous Linux _ on fixe et on filtre ! (Partie 7).mp4
+123053223 bytes	2023-01-14 15:00:50.0000000000	/home/abdelwahed/Bureau/DESKTOP/from_Scratch/niveau-script-avancee/script_backup/Livecoding _ écrire un script de backup Linux Fichiers et MySQL _ MariaDB en shell BASH (Partie 4).mp4
+84751060 bytes	2023-01-14 14:59:52.0000000000	/home/abdelwahed/Bureau/DESKTOP/from_Scratch/niveau-script-avancee/script_backup/Livecoding  écrire un script de backup Linux Fichiers et MySQL  MariaDB en shell BASH (Partie 2).mp4
+702611237 bytes	2023-01-14 15:02:38.0000000000	/home/abdelwahed/Bureau/DESKTOP/from_Scratch/niveau-script-avancee/Live coding  un script de monitoring serveur complet en BASH sous Linux - Christophe Casalegno.mp4
+275286299 bytes	2023-01-14 15:38:12.0000000000	/home/abdelwahed/Bureau/DESKTOP/from_Scratch/niveau-script-avancee/Migrer 1500 applications avec du BASH _ l'analyse - Christophe Casalegno.mp4
+315118610 bytes	2023-01-14 15:01:38.0000000000	/home/abdelwahed/Bureau/DESKTOP/from_Scratch/niveau-script-avancee/Livecoding _ un firewall en bash sous Linux - Christophe Casalegno.mp4
+2498086 bytes	2023-01-20 14:29:17.0000000000	/home/abdelwahed/Bureau/DESKTOP/Images_nature/others/VID_20230120_142917.mp4
+7795508 bytes	2023-01-14 14:11:11.0000000000	/home/abdelwahed/Bureau/DESKTOP/Images_nature/others/VID_20230114_141111.mp4
+22879701 bytes	2023-01-14 11:50:30.0000000000	/home/abdelwahed/Bureau/DESKTOP/Images_nature/others/VID_20230114_115030.mp4
+7705330 bytes	2023-01-06 16:24:09.0000000000	/home/abdelwahed/Bureau/DESKTOP/Images_nature/others/VID_20230106_162409.mp4
+69465347 bytes	2022-12-24 16:10:36.0000000000	/home/abdelwahed/Bureau/DESKTOP/Images_nature/others/VID_20221224_161036.mp4
+146502843 bytes	2023-01-15 15:30:40.0000000000	/home/abdelwahed/Bureau/DESKTOP/Images_nature/others/VID_20230115_153040.mp4
+120178150 bytes	2023-01-18 10:34:45.0000000000	/home/abdelwahed/Bureau/DESKTOP/Lecture_hindi_linux_/Lecture 39 Microkernel, Exokernel, Multikernel.mp4
+122392589 bytes	2023-01-14 06:56:09.0000000000	/home/abdelwahed/Bureau/DESKTOP/Lecture_hindi_linux_/Lecture 34 Crash Recovery and Logging.mp4
+128236075 bytes	2023-01-18 10:22:15.0000000000	/home/abdelwahed/Bureau/DESKTOP/Lecture_hindi_linux_/Lecture 37 Scheduling Policies.mp4
+131262540 bytes	2023-01-18 10:10:56.0000000000	/home/abdelwahed/Bureau/DESKTOP/Lecture_hindi_linux_/Lecture 36 Protection and Security.mp4
+128957768 bytes	2023-01-18 09:37:51.0000000000	/home/abdelwahed/Bureau/DESKTOP/Lecture_hindi_linux_/Lecture 25 Multiple producer-multiple consumer queue, Semaphore.mp4
+115265523 bytes	2023-01-18 09:50:04.0000000000	/home/abdelwahed/Bureau/DESKTOP/Lecture_hindi_linux_/Lecture 27 Synchronization in xv6 acquirerelease, sleepwakeup, exitwait.mp4
+120137325 bytes	2023-01-18 10:29:27.0000000000	/home/abdelwahed/Bureau/DESKTOP/Lecture_hindi_linux_/Lecture 38 Lock-free multiprocessor coordination, Read-Copy-Update.mp4
+127558003 bytes	2023-01-14 07:13:03.0000000000	/home/abdelwahed/Bureau/DESKTOP/Lecture_hindi_linux_/vues/Lecture 14 Loading the Kernel, Initializing the Page Table.mp4
+123982194 bytes	2023-01-14 06:57:56.0000000000	/home/abdelwahed/Bureau/DESKTOP/Lecture_hindi_linux_/vues/Lecture 3 Threads, Address Spaces, Filesystem, Devices.mp4
+117849055 bytes	2023-01-19 10:05:31.0000000000	/home/abdelwahed/Bureau/DESKTOP/Lecture_hindi_linux_/vues/Lecture 9 Kernel data structures, Memory Management.mp4
+75983849 bytes	2023-01-19 09:37:59.0000000000	/home/abdelwahed/Bureau/DESKTOP/Lecture_hindi_linux_/vues/Lecture 5 x86 Instruction Set, GCC Calling Conventions.mp4
+127916259 bytes	2023-01-18 09:21:57.0000000000	/home/abdelwahed/Bureau/DESKTOP/Lecture_hindi_linux_/vues/Lecture 23 Locking variations.mp4
+80930213 bytes	2023-01-14 06:53:34.0000000000	/home/abdelwahed/Bureau/DESKTOP/Lecture_hindi_linux_/vues/Lecture 20 Handling User Pointers, Concurrency.mp4
+119916866 bytes	2023-01-14 07:08:24.0000000000	/home/abdelwahed/Bureau/DESKTOP/Lecture_hindi_linux_/vues/Lecture 19 Creating the first process.mp4
+95290778 bytes	2023-01-14 06:57:34.0000000000	/home/abdelwahed/Bureau/DESKTOP/Lecture_hindi_linux_/vues/Lecture 2 Introduction to UNIX System Calls Part 2.mp4
+109339191 bytes	2023-01-14 07:13:22.0000000000	/home/abdelwahed/Bureau/DESKTOP/Lecture_hindi_linux_/vues/Lecture 15 Setting up page table for user processes.mp4
+126216173 bytes	2023-01-18 09:31:24.0000000000	/home/abdelwahed/Bureau/DESKTOP/Lecture_hindi_linux_/vues/Lecture 24 Condition Variables.mp4
+121650983 bytes	2023-01-14 07:13:44.0000000000	/home/abdelwahed/Bureau/DESKTOP/Lecture_hindi_linux_/vues/Lecture 18 Process kernel stack, Scheduler, Fork.mp4
+98404501 bytes	2023-01-14 06:57:16.0000000000	/home/abdelwahed/Bureau/DESKTOP/Lecture_hindi_linux_/vues/Lecture 1 Introduction to UNIX System Calls Part 1.mp4
+118112219 bytes	2023-01-18 09:16:44.0000000000	/home/abdelwahed/Bureau/DESKTOP/Lecture_hindi_linux_/vues/Lecture 22 Fine-grained locking and its challenges.mp4
+121660907 bytes	2023-01-14 06:54:57.0000000000	/home/abdelwahed/Bureau/DESKTOP/Lecture_hindi_linux_/vues/Lecture 31 Storage devices, Filesystem interfaces.mp4
+124071706 bytes	2023-01-19 10:02:07.0000000000	/home/abdelwahed/Bureau/DESKTOP/Lecture_hindi_linux_/vues/Lecture 8 Traps, Trap Handlers.mp4
+111498147 bytes	2023-01-14 06:55:16.0000000000	/home/abdelwahed/Bureau/DESKTOP/Lecture_hindi_linux_/vues/Lecture 32 Filesystem Implementation.mp4
+111520521 bytes	2023-01-14 07:14:47.0000000000	/home/abdelwahed/Bureau/DESKTOP/Lecture_hindi_linux_/vues/Lecture 10 Segmentation Review, Introduction to Paging.mp4
+116207692 bytes	2023-01-18 09:04:39.0000000000	/home/abdelwahed/Bureau/DESKTOP/Lecture_hindi_linux_/vues/Lecture 16 Processes in action.mp4
+127353024 bytes	2023-01-19 09:39:59.0000000000	/home/abdelwahed/Bureau/DESKTOP/Lecture_hindi_linux_/vues/Lecture 6 Physical Memory Map, IO, Segmentation.mp4
+111610140 bytes	2023-01-14 07:15:27.0000000000	/home/abdelwahed/Bureau/DESKTOP/Lecture_hindi_linux_/vues/Lecture 12 Process Address Spaces using Paging.mp4
+113531380 bytes	2023-01-14 07:12:41.0000000000	/home/abdelwahed/Bureau/DESKTOP/Lecture_hindi_linux_/vues/Lecture 13 Translation Lookaside Buffer, Large Pages, Boot Sector.mp4
+124795121 bytes	2023-01-19 09:37:37.0000000000	/home/abdelwahed/Bureau/DESKTOP/Lecture_hindi_linux_/vues/Lecture 4 PC Architecture.mp4
+110685032 bytes	2023-01-18 09:09:25.0000000000	/home/abdelwahed/Bureau/DESKTOP/Lecture_hindi_linux_/vues/Lecture 17 Process structure, Context switching.mp4
+123863858 bytes	2023-01-14 07:15:08.0000000000	/home/abdelwahed/Bureau/DESKTOP/Lecture_hindi_linux_/vues/Lecture 11 Paging.mp4
+122995650 bytes	2023-01-14 06:53:56.0000000000	/home/abdelwahed/Bureau/DESKTOP/Lecture_hindi_linux_/vues/Lecture 21 Locking.mp4
+115577830 bytes	2023-01-19 09:41:26.0000000000	/home/abdelwahed/Bureau/DESKTOP/Lecture_hindi_linux_/vues/Lecture 7 Segmentation, Trap Handling.mp4
+116959541 bytes	2023-01-18 09:42:33.0000000000	/home/abdelwahed/Bureau/DESKTOP/Lecture_hindi_linux_/Lecture 26 Transactions and lock-free primitives, Readwrite locks.mp4
+136201679 bytes	2023-01-18 10:40:12.0000000000	/home/abdelwahed/Bureau/DESKTOP/Lecture_hindi_linux_/Lecture 40 Virtualization, Cloud Computing, Technology Trends.mp4
+113152595 bytes	2023-01-14 06:55:45.0000000000	/home/abdelwahed/Bureau/DESKTOP/Lecture_hindi_linux_/Lecture 33 Filesystem Operations.mp4
+122075685 bytes	2023-01-18 10:04:47.0000000000	/home/abdelwahed/Bureau/DESKTOP/Lecture_hindi_linux_/Lecture 35 Logging in Linux ext3 filesystem.mp4
+119956573 bytes	2023-01-14 06:54:17.0000000000	/home/abdelwahed/Bureau/DESKTOP/Lecture_hindi_linux_/Lecture 29 Demand Paging; Introduction to Page Replacement.mp4
+114158556 bytes	2023-01-18 09:54:59.0000000000	/home/abdelwahed/Bureau/DESKTOP/Lecture_hindi_linux_/Lecture 28 More sychronization in xv6 kill, IDE device driver; Introduction to Demand Paging.mp4
+113316275 bytes	2023-01-14 06:54:37.0000000000	/home/abdelwahed/Bureau/DESKTOP/Lecture_hindi_linux_/Lecture 30 Page Replacement, Thrashing.mp4
+423462058 bytes	2022-12-25 10:27:02.0000000000	/home/abdelwahed/Bureau/DESKTOP/Bright_coding/COMPANY.mp4
+199073843 bytes	2022-12-25 10:26:36.0000000000	/home/abdelwahed/Bureau/DESKTOP/Bright_coding/Api.mp4
+236753160 bytes	2022-12-25 10:26:13.0000000000	/home/abdelwahed/Bureau/DESKTOP/Bright_coding/meeting.mp4
+194050237 bytes	2022-12-25 10:26:24.0000000000	/home/abdelwahed/Bureau/DESKTOP/Bright_coding/skills.mp4
+44932031 bytes	2023-01-16 12:07:27.0000000000	/home/abdelwahed/Bureau/DESKTOP/others/Montage vidéo Linux avec Davinci Resolve 17.mp4
+34284526 bytes	2023-01-17 15:30:40.0000000000	/home/abdelwahed/Bureau/DESKTOP/others/How to add a system call to Linux Kernel-4.8.8.mp4
+52865343 bytes	2023-01-17 15:25:22.0000000000	/home/abdelwahed/Bureau/DESKTOP/others/Write and Submit your first Linux kernel Patch.mp4
+51516596 bytes	2023-01-16 12:01:51.0000000000	/home/abdelwahed/Bureau/DESKTOP/others/Yocto Linux #6 - Application Deployment.mp4
+20480858 bytes	2023-01-17 14:39:02.0000000000	/home/abdelwahed/Bureau/DESKTOP/others/Python 2 Vs Python 3.mp4
+38012523 bytes	2023-01-16 12:51:31.0000000000	/home/abdelwahed/Bureau/DESKTOP/others/Intro to Embedded Programming.mp4
+105574195 bytes	2023-01-16 13:02:17.0000000000	/home/abdelwahed/Bureau/DESKTOP/others/Linux Kernel Programming 01 Compile and Boot.mp4
+73737910 bytes	2023-01-16 11:44:30.0000000000	/home/abdelwahed/Bureau/DESKTOP/others/Yocto Linux #3 - Hello World Kernel Module.mp4
+29018514 bytes	2023-01-17 13:42:32.0000000000	/home/abdelwahed/Bureau/DESKTOP/others/Introduction to Linux Device Drivers   Part 1 The Basics.mp4
+251823845 bytes	2023-01-14 17:17:18.0000000000	/home/abdelwahed/Bureau/DESKTOP/others/01 - Network Fundamentals.mp4
+120846726 bytes	2023-01-14 17:17:49.0000000000	/home/abdelwahed/Bureau/DESKTOP/others/GNU sed - the stream editor.mp4
+748647605 bytes	2023-01-15 18:19:05.0000000000	/home/abdelwahed/Bureau/DESKTOP/others/Family.History.Mysteries.Buried.Past.2023.720p.PCOK.WEB-DL.MyCima.world.mp4
+89371915 bytes	2023-01-16 11:25:15.0000000000	/home/abdelwahed/Bureau/DESKTOP/others/Yocto Linux #4 - Kernel Module read, write, ioctl.mp4
+71148305 bytes	2023-01-17 15:11:42.0000000000	/home/abdelwahed/Bureau/DESKTOP/others/Getting pixels on screen on Linux introduction to Kernel Mode Setting - Simon Ser.mp4
+3612725 bytes	2023-01-16 12:42:22.0000000000	/home/abdelwahed/Bureau/DESKTOP/others/How install libraries in qpython.mp4
+57351081 bytes	2023-01-20 09:53:58.0000000000	/home/abdelwahed/Bureau/DESKTOP/others/شرح مختصر شامل الأساسيات عن TMUX LINUX.mp4
+214180656 bytes	2023-01-14 17:18:45.0000000000	/home/abdelwahed/Bureau/DESKTOP/others/(x86-64) GNU Assembler Crash-Course.mp4
+48751198 bytes	2023-01-16 11:00:32.0000000000	/home/abdelwahed/Bureau/DESKTOP/others/(Re) Découvrir les outils UNIX (Grégoire Pineau).mp4
+147782574 bytes	2023-01-14 17:17:27.0000000000	/home/abdelwahed/Bureau/DESKTOP/others/Build a Kubernetes Cloud-Computing Cluster.mp4
+250036498 bytes	2023-01-14 17:18:04.0000000000	/home/abdelwahed/Bureau/DESKTOP/others/How Cloud-Computing works.mp4
+252906815 bytes	2023-01-14 17:17:42.0000000000	/home/abdelwahed/Bureau/DESKTOP/others/Encryption (SSLTLS, RSA, Certificates, CAs).mp4
+58657813 bytes	2023-01-16 11:11:16.0000000000	/home/abdelwahed/Bureau/DESKTOP/others/Passer sur Linux quand on est créateur de contenu  (YouTube, Twitch, DaVinci Resolve).mp4
+29321205 bytes	2023-01-17 13:57:42.0000000000	/home/abdelwahed/Bureau/DESKTOP/others/linux dma in device drivers.mp4
+82857653 bytes	2023-01-16 11:58:41.0000000000	/home/abdelwahed/Bureau/DESKTOP/others/Yocto Linux #5 - Final kernel driver.mp4
+71350204 bytes	2023-01-16 11:32:07.0000000000	/home/abdelwahed/Bureau/DESKTOP/others/Yocto Linux #1 - Initial setup and ZedBoard bring-up.mp4
+77640422 bytes	2023-01-14 06:49:59.0000000000	/home/abdelwahed/Bureau/DESKTOP/linux101_102/18files/planning/cours/Linux 101 (cour 17 - Udev.mp4
+129025440 bytes	2023-01-14 06:50:35.0000000000	/home/abdelwahed/Bureau/DESKTOP/linux101_102/18files/planning/cours/Linux 101 - problème de SON (cour 9 - Périphérique (device) - suite ).mp4
+77126413 bytes	2023-01-14 06:47:10.0000000000	/home/abdelwahed/Bureau/DESKTOP/linux101_102/18files/planning/cours/Linux 101 (cour 6 -  permission des fichiers , lien symbolique ) prob son 27 minutes désolé.mp4
+44262106 bytes	2023-01-14 06:48:51.0000000000	/home/abdelwahed/Bureau/DESKTOP/linux101_102/18files/planning/cours/Linux 101 (cour 12 - Révision des pipes suite et fin ).mp4
+92414551 bytes	2023-01-14 06:49:35.0000000000	/home/abdelwahed/Bureau/DESKTOP/linux101_102/18files/planning/cours/Linux 101 (cour 15 - Scripting Bash - suite et fin).mp4
+51448202 bytes	2023-01-14 06:49:44.0000000000	/home/abdelwahed/Bureau/DESKTOP/linux101_102/18files/planning/cours/Linux 101 (cour 16 - Réponse de latelier).mp4
+76256150 bytes	2023-01-14 06:47:55.0000000000	/home/abdelwahed/Bureau/DESKTOP/linux101_102/18files/planning/cours/Linux 101 (cour 10 - Révision Pipe ).mp4
+68514902 bytes	2023-01-14 06:47:42.0000000000	/home/abdelwahed/Bureau/DESKTOP/linux101_102/18files/planning/cours/Linux 101 (cour 8 - Périphérique (device) ).mp4
+73807697 bytes	2023-01-14 06:49:19.0000000000	/home/abdelwahed/Bureau/DESKTOP/linux101_102/18files/planning/cours/Linux 101 (cour 14 - Scripting Bash - suite ).mp4
+60897864 bytes	2023-01-14 06:50:11.0000000000	/home/abdelwahed/Bureau/DESKTOP/linux101_102/18files/planning/cours/Linux 101 (cours 5 - Redirection de flux ).mp4
+88711425 bytes	2023-01-14 06:49:06.0000000000	/home/abdelwahed/Bureau/DESKTOP/linux101_102/18files/planning/cours/Linux 101 (cour 13 - Scripting Bash ).mp4
+55874578 bytes	2023-01-14 06:48:42.0000000000	/home/abdelwahed/Bureau/DESKTOP/linux101_102/18files/planning/cours/Linux 101 (cour 11 - Révision pipe suite ).mp4
+59658545 bytes	2023-01-14 06:47:21.0000000000	/home/abdelwahed/Bureau/DESKTOP/linux101_102/18files/planning/cours/Linux 101 (cour 6 -  Redirection de flux  suite , chaînage de commandes ).mp4
+52456865 bytes	2023-01-14 06:47:30.0000000000	/home/abdelwahed/Bureau/DESKTOP/linux101_102/18files/planning/cours/Linux 101 (cour 7 - permission des fichiers , lien symbolique  suite).mp4
+93204946 bytes	2023-01-14 06:51:10.0000000000	/home/abdelwahed/Bureau/DESKTOP/linux101_102/Linux 202 ( Cours 23 - Performance Apache - suite  ).mp4
+95161743 bytes	2023-01-14 06:51:28.0000000000	/home/abdelwahed/Bureau/DESKTOP/linux101_102/Linux 202 ( Cours 24 - Performance Apache - suite et fin  ).mp4
+81834043 bytes	2023-01-14 06:46:57.0000000000	/home/abdelwahed/Bureau/DESKTOP/linux101_102/vues/Linux 101 (cour 4 - éditeur de texte VIM).mp4
+43947661 bytes	2023-01-14 06:46:29.0000000000	/home/abdelwahed/Bureau/DESKTOP/linux101_102/vues/Linux 101 (cour 2 - commandes de base la suite).mp4
+59016349 bytes	2023-01-14 11:13:43.0000000000	/home/abdelwahed/Bureau/DESKTOP/linux101_102/vues/Linux 101 (cour 1 - commandes de base).mp4
+77361374 bytes	2023-01-14 06:46:43.0000000000	/home/abdelwahed/Bureau/DESKTOP/linux101_102/vues/Linux 101 (cour 3 - Truc astuces Bash et installation de  logiciels).mp4
+95913913 bytes	2023-01-14 06:50:53.0000000000	/home/abdelwahed/Bureau/DESKTOP/linux101_102/Linux 202 ( Cours 22 - Performance Apache  ).mp4
+54950845 bytes	2023-01-14 07:23:15.0000000000	/home/abdelwahed/Bureau/DESKTOP/linux101_102/Administration de GNULinux (Linux201 cours 1).mp4
+124463987 bytes	2022-11-01 03:28:14.0000000000	/home/abdelwahed/Bureau/OTHERS/06022023/TDD Full Course (Learn Test Driven Development with Python).mp4
+64437410 bytes	2023-02-06 11:49:55.0000000000	/home/abdelwahed/Bureau/OTHERS/06022023/How to sale Digital Services Online ??_?? ?????? ????? ??? ??????? ??????? ??? ????????.mp4
+743008932 bytes	2023-02-03 11:17:25.0000000000	/home/abdelwahed/Bureau/OTHERS/06022023/كيف تصبح مبرمجا محترفا بالتفصيل - The Clean Coder.mp4
+414091099 bytes	2023-02-06 12:23:40.0000000000	/home/abdelwahed/Bureau/OTHERS/06022023/اسهل طريقة في تعلم برنامج اكسيل Microsoft Excel من البداية الي الاحتراف  Zero To Hero فيديو واحد.mp4
+270501952 bytes	2023-02-03 11:23:22.0000000000	/home/abdelwahed/Bureau/OTHERS/06022023/دروس قاسية من 2021.mp4
+175123237 bytes	2023-02-01 13:39:05.0000000000	/home/abdelwahed/Bureau/OTHERS/06022023/Do It Today Overcome Procrastination Improve Productivity and Achieve More Meaningful Thing.mp4
+81745054 bytes	2023-02-06 13:14:50.0000000000	/home/abdelwahed/Bureau/OTHERS/06022023/Build A Machine Learning Web App From Scratch.mp4
+97806879 bytes	2023-02-06 12:49:34.0000000000	/home/abdelwahed/Bureau/OTHERS/06022023/Roadmap to ChatGPT and AI mastery.mp4
+22322054 bytes	2023-02-05 11:36:15.0000000000	/home/abdelwahed/Bureau/OTHERS/06022023/MS Excel Macro  تعلم برنامج الأكسل - شرح الماكرو.mp4
+852851429 bytes	2022-12-25 19:02:11.0000000000	/home/abdelwahed/Bureau/OTHERS/06022023/Learn C Programming with Dr Chuck (feat classic book by Kernighan and Ritchie).mp4
+81236319 bytes	2023-02-06 12:40:43.0000000000	/home/abdelwahed/Bureau/OTHERS/06022023/رسالتي الأخيرة  حسونة اكاديمي  مباشر.mp4
+9901942 bytes	2023-02-05 15:01:39.0000000000	/home/abdelwahed/Bureau/OTHERS/06022023/Daoudi - youm yachbah youm الداودي _ يوم يشبه يوم في حياتي.mp4
+468755 bytes	2023-01-18 12:37:42.1609617100	/home/abdelwahed/Bureau/OTHERS/OLD/fastproject/wp-content/themes/twentytwentytwo/assets/videos/birds.mp4
+468755 bytes	2021-12-07 16:38:02.0000000000	/home/abdelwahed/Bureau/OTHERS/OLD/wordpress/wp-content/themes/twentytwentytwo/assets/videos/birds.mp4
+468755 bytes	2023-01-18 13:10:48.5933907360	/home/abdelwahed/Bureau/OTHERS/OLD/morefast/wp-content/themes/twentytwentytwo/assets/videos/birds.mp4
+468755 bytes	2023-02-02 19:50:43.6406832530	/home/abdelwahed/Bureau/OTHERS/OLD/chatgpt/wp-content/themes/twentytwentytwo/assets/videos/birds.mp4
+8948017 bytes	2023-02-13 13:42:16.0000000000	/home/abdelwahed/Bureau/OTHERS/13022023/CHATGPT + VBA EXCEL  Débuter  dans lutilisation  comment faire une macro en français.mp4
+16118519 bytes	2023-02-13 12:08:42.0000000000	/home/abdelwahed/Bureau/OTHERS/13022023/Je dissèque des messages de prospection créés par lintelligence artificielle (ChatGPT).mp4
+44720536 bytes	2023-02-13 12:50:31.0000000000	/home/abdelwahed/Bureau/OTHERS/13022023/Carrière de dev  devenir salarié en ESN  SSII.mp4
+34643304 bytes	2023-02-13 11:11:41.0000000000	/home/abdelwahed/Bureau/OTHERS/13022023/9 mois pour sortir un MVP (.mp4
+11654843 bytes	2023-02-11 10:59:50.0000000000	/home/abdelwahed/Bureau/OTHERS/13022023/How to install Ubuntu on your Android device.mp4
+95709739 bytes	2023-02-13 14:19:01.0000000000	/home/abdelwahed/Bureau/OTHERS/13022023/Train Your Brain To BECOME LIMITLESS & Achieve ANY GOAL You Have  John Assaraf.mp4
+88883675 bytes	2023-02-13 14:25:09.0000000000	/home/abdelwahed/Bureau/OTHERS/13022023/The BEST Tips for Professional Sales People - Grant Cardone.mp4
+50258748 bytes	2023-02-13 13:52:58.0000000000	/home/abdelwahed/Bureau/OTHERS/13022023/A Live Sales Call by Grant Cardone.mp4
+87414327 bytes	2023-02-13 14:20:32.0000000000	/home/abdelwahed/Bureau/OTHERS/13022023/Grant Cardone Teaches Billion Dollar Company How To Use Social Media To Sell.mp4
+340954199 bytes	2023-02-09 07:01:41.0000000000	/home/abdelwahed/Bureau/OTHERS/13022023/So Good They Cant Ignore You  - Cal Newport (full audiobook).mp4
+161 bytes	2023-02-04 09:26:19.2642094920	/home/abdelwahed/Bureau/OTHERS/update_subtitle/FFmpeg/tests/ref/lavf-fate/h264.mp4
+157 bytes	2023-02-04 09:26:19.2642094920	/home/abdelwahed/Bureau/OTHERS/update_subtitle/FFmpeg/tests/ref/lavf-fate/av1.mp4
+468755 bytes	2021-12-07 16:38:02.0000000000	/home/abdelwahed/Bureau/OTHERS/Téléchargement/WORDPRESS/wordpress6/wordpress/wp-content/themes/twentytwentytwo/assets/videos/birds.mp4
+468755 bytes	2023-02-07 04:17:55.9888432400	/home/abdelwahed/Bureau/OTHERS/wordpress/wp-content/themes/twentytwentytwo/assets/videos/birds.mp4
+39008224 bytes	2023-02-09 11:55:21.0000000000	/home/abdelwahed/Bureau/OTHERS/09022023/ChatGPT absolutely DOMINATES Arduino programming.mp4
+40102637 bytes	2023-02-09 06:46:01.0000000000	/home/abdelwahed/Bureau/OTHERS/09022023/كيف تصبح مبرمج محترف و قوى فى اسرع وقت.mp4
+12741608 bytes	2023-02-09 11:14:25.0000000000	/home/abdelwahed/Bureau/OTHERS/09022023/How ChatGPT is Trained.mp4
+16846353 bytes	2023-02-09 11:58:52.0000000000	/home/abdelwahed/Bureau/OTHERS/09022023/Can ChatGPT Generate Circuit Components.mp4
+125856798 bytes	2023-02-09 12:31:15.0000000000	/home/abdelwahed/Bureau/OTHERS/09022023/Quel Business Lancer Avec Chat GPT En 2023 .mp4
+340954199 bytes	2023-02-09 07:01:41.0000000000	/home/abdelwahed/Bureau/OTHERS/09022023/So Good They Cant Ignore You  - Cal Newport (full audiobook).mp4
+584108017 bytes	2023-02-09 07:26:54.0000000000	/home/abdelwahed/Bureau/OTHERS/09022023/Deep work by cal newport  full Audiobook.mp4
+23523886 bytes	2023-02-09 12:30:56.0000000000	/home/abdelwahed/Bureau/OTHERS/09022023/Extraire des données dun site avec ChatGpt.mp4
+163309892 bytes	2023-02-03 11:26:05.0000000000	/home/abdelwahed/Bureau/OTHERS/03022023/Pull_Request/Reviewing and Merging Pull Requests - Live Coding with Jesse.mp4
+79543191 bytes	2023-02-03 11:43:57.0000000000	/home/abdelwahed/Bureau/OTHERS/03022023/Pull_Request/Merging a Pull Request from GitHub - Live Coding with Jesse.mp4
+36654021 bytes	2023-02-03 11:52:23.0000000000	/home/abdelwahed/Bureau/OTHERS/03022023/Pull_Request/How to Submit a Pull Request.mp4
+153215167 bytes	2023-02-03 11:34:23.0000000000	/home/abdelwahed/Bureau/OTHERS/03022023/Pull_Request/Merging Pull Requests with Git and Github (P4D14) - Live Coding with Jesse.mp4
+206933968 bytes	2023-02-01 11:31:42.0000000000	/home/abdelwahed/Bureau/OTHERS/03022023/Pull_Request/ASMR Programming - Coding Pacman - No Talking.mp4
+128797987 bytes	2023-02-03 11:45:11.0000000000	/home/abdelwahed/Bureau/OTHERS/03022023/Pull_Request/Merging GitHub Pull Requests (P4D8) - Live Coding with Jesse.mp4
+208659531 bytes	2023-01-31 12:31:50.0000000000	/home/abdelwahed/Bureau/OTHERS/03022023/Pull_Request/Writing Garbage Collector in C.mp4
+166372258 bytes	2023-02-01 13:42:39.0000000000	/home/abdelwahed/Bureau/OTHERS/03022023/Lets Build ChatGPT 2.0 with React JS and OpenAI on your PC!.mp4
+522069056 bytes	2023-02-03 13:22:21.0000000000	/home/abdelwahed/Bureau/OTHERS/03022023/FREECODECAMP/Full HTTP Networking Course – Fetch and REST APIs in JavaScript.mp4
+155412299 bytes	2023-02-03 13:11:18.0000000000	/home/abdelwahed/Bureau/OTHERS/03022023/FREECODECAMP/Linux for Ethical Hackers (Kali Linux Tutorial).mp4
+313943218 bytes	2023-02-07 14:18:25.0000000000	/home/abdelwahed/Bureau/OTHERS/03022023/FREECODECAMP/Learn PostgreSQL Tutorial - Full Course for Beginners.mp4
+14575243 bytes	2023-02-02 09:11:02.0000000000	/home/abdelwahed/Bureau/OTHERS/03022023/VUES/5 SECRET Ways to Become a Speed Learner With ChatGPT.mp4
+33470387 bytes	2023-02-03 12:21:57.0000000000	/home/abdelwahed/Bureau/OTHERS/03022023/VUES/23 Ways to Make Money with ChatGPT in 2023.mp4
+4393386 bytes	2023-02-01 13:47:22.0000000000	/home/abdelwahed/Bureau/OTHERS/03022023/VUES/Use ChatGPT to launch an IoT business.mp4
+20863856 bytes	2023-02-01 13:48:42.0000000000	/home/abdelwahed/Bureau/OTHERS/03022023/VUES/Analysing Data with ChatGPT  (Data Analysis and ML ).mp4
+4195474 bytes	2023-02-02 10:42:09.0000000000	/home/abdelwahed/Bureau/OTHERS/03022023/VUES/Build a Web Browser Using ChatGPT and Python  in 2 Minutes  #chatgpt #openai.mp4
+5140938 bytes	2023-02-03 12:22:59.0000000000	/home/abdelwahed/Bureau/OTHERS/03022023/VUES/Using Canvas FREE AI Text-to-IMAGE Generator.mp4
+13771650 bytes	2023-02-02 10:48:31.0000000000	/home/abdelwahed/Bureau/OTHERS/03022023/VUES/Make Money Online with ChatGPT    Build a Tool website + Google AdSense Money  #chatgpt #openai.mp4
+12480903 bytes	2023-02-03 13:20:49.0000000000	/home/abdelwahed/Bureau/OTHERS/03022023/VUES/Introduction  Comprendre ChatGPT.mp4
+29498634 bytes	2023-02-03 14:04:15.0000000000	/home/abdelwahed/Bureau/OTHERS/03022023/VUES/Comment générer 100.000€ avec ChatGPT - Astuce, Argent, Stratégie & Explication.mp4
+72534473 bytes	2023-02-03 14:26:30.0000000000	/home/abdelwahed/Bureau/OTHERS/03022023/VUES/How to Make Your First $1000 With ChatGPT (still early).mp4
+11183702 bytes	2023-01-30 11:03:46.0000000000	/home/abdelwahed/Bureau/OTHERS/03022023/VUES/Convert py to exe - from code to software.mp4
+22982689 bytes	2023-02-03 14:13:06.0000000000	/home/abdelwahed/Bureau/OTHERS/03022023/VUES/ChatGPT & 3D Printing Self-Replicating AI Machines!.mp4
+35904753 bytes	2023-02-03 13:23:21.0000000000	/home/abdelwahed/Bureau/OTHERS/03022023/VUES/Comment ChatGPT Va Changer à Jamais Le Dropshipping.mp4
+136317128 bytes	2023-02-02 19:40:28.0000000000	/home/abdelwahed/Bureau/OTHERS/03022023/AUTOSAR/Introduction to Linux Kernel & Device Drivers Part 1 [Arabic].mp4
+136962255 bytes	2023-02-03 11:47:35.0000000000	/home/abdelwahed/Bureau/OTHERS/03022023/AUTOSAR/IoT Neural Networks for Embedded Systems by Abdallah Ali (Arabic).mp4
+114212748 bytes	2023-02-03 12:44:56.0000000000	/home/abdelwahed/Bureau/OTHERS/03022023/AUTOSAR/ARABIC_TRAINING/Session3  sws and srs docs.mp4
+185406910 bytes	2023-02-03 12:56:40.0000000000	/home/abdelwahed/Bureau/OTHERS/03022023/AUTOSAR/ARABIC_TRAINING/Session 6 Git Commands.mp4
+85298279 bytes	2023-02-03 12:49:15.0000000000	/home/abdelwahed/Bureau/OTHERS/03022023/AUTOSAR/ARABIC_TRAINING/Session 5  Introduction to Com stack.mp4
+170251765 bytes	2023-02-03 12:15:46.0000000000	/home/abdelwahed/Bureau/OTHERS/03022023/AUTOSAR/ARABIC_TRAINING/vus/AUTOSarZs Introduction.mp4
+114979208 bytes	2023-02-03 12:43:40.0000000000	/home/abdelwahed/Bureau/OTHERS/03022023/AUTOSAR/ARABIC_TRAINING/vus/Session 2 AUTOSAR RTE & SWC.mp4
+259248806 bytes	2023-02-03 12:24:16.0000000000	/home/abdelwahed/Bureau/OTHERS/03022023/AUTOSAR/ARABIC_TRAINING/vus/Session 1 AUTOSAR Methodology.mp4
+155506021 bytes	2023-02-03 12:46:19.0000000000	/home/abdelwahed/Bureau/OTHERS/03022023/AUTOSAR/ARABIC_TRAINING/Session 4 CAN Protocol.mp4
+105945398 bytes	2023-02-03 12:58:52.0000000000	/home/abdelwahed/Bureau/OTHERS/03022023/AUTOSAR/ARABIC_TRAINING/Session 7 Branching strategy and Issue tracking.mp4
+64771565 bytes	2023-02-03 12:00:08.0000000000	/home/abdelwahed/Bureau/OTHERS/03022023/AUTOSAR/Introduction to State Machines in Embedded Software Design by Amr Ali (Arabic).mp4
+109093900 bytes	2023-02-02 20:42:39.0000000000	/home/abdelwahed/Bureau/OTHERS/03022023/AUTOSAR/Adaptive Autosar Overview  Part 1 by Eng Islam Abdeen  Embedded Meetup Egypt.mp4
+70433929 bytes	2023-02-03 11:41:10.0000000000	/home/abdelwahed/Bureau/OTHERS/03022023/AUTOSAR/Intro to OpenWRT by Ronaldo Nunez.mp4
+58409999 bytes	2023-02-03 13:08:38.0000000000	/home/abdelwahed/Bureau/OTHERS/03022023/Our grand experiment with ChatGPT and generative AI.mp4
+20703479 bytes	2023-01-31 20:46:09.0000000000	/home/abdelwahed/Bureau/OTHERS/03022023/CHATGPT Programmation orienté objet Python Ada cybersécurité en Français.mp4
+5243351 bytes	2023-02-02 10:40:24.0000000000	/home/abdelwahed/Bureau/OTHERS/03022023/Web Scraping Using ChatGPT  #openai  #chatgpt  #webscraping  extract data from website.mp4
+38585963 bytes	2023-02-03 14:07:39.0000000000	/home/abdelwahed/Bureau/OTHERS/03022023/ChatGPT ?crit mon livre pour Amazon KDP et DALL.E2 fait la couverture ??.mp4
+19040650 bytes	2023-02-01 11:51:47.0000000000	/home/abdelwahed/Bureau/OTHERS/03022023/CHATGPT texte aléatoire étude et analyse de texte résumés en Français.mp4
+37654801 bytes	2023-02-02 11:14:50.0000000000	/home/abdelwahed/Bureau/OTHERS/03022023/Comment écrire un article de blog avec ChatGPT et Notion .mp4
+10957525 bytes	2023-02-03 14:12:00.0000000000	/home/abdelwahed/Bureau/OTHERS/03022023/ChatGPT Stratégie de trading +20087% de retours.mp4
+22310358 bytes	2023-02-01 11:53:54.0000000000	/home/abdelwahed/Bureau/OTHERS/03022023/CHATGPT et cybersécurité site web ordinateur personnel sauvegardes phishing.mp4
+84140171 bytes	2023-02-03 13:32:46.0000000000	/home/abdelwahed/Bureau/OTHERS/03022023/Stanford Webinar - GPT-3 & Beyond.mp4
+125433530 bytes	2023-02-07 05:22:07.0000000000	/home/abdelwahed/Bureau/OTHERS/07022023/Startup/Startup Mechanics - Kirsty Nathoo, Partner and CFO at Y Combinator - Stanford CS183F.mp4
+90726241 bytes	2023-02-07 05:56:43.0000000000	/home/abdelwahed/Bureau/OTHERS/07022023/Startup/How to Build a Product I -  Michael Seibel, Steve Huffman, Emmett Shear - Stanford CS183F.mp4
+86639299 bytes	2023-02-07 05:51:42.0000000000	/home/abdelwahed/Bureau/OTHERS/07022023/Startup/Live Office Hours with Yuri Sagalov and Sam Altman - Stanford CS183F Startup School.mp4
+76524586 bytes	2023-02-07 05:09:32.0000000000	/home/abdelwahed/Bureau/OTHERS/07022023/Startup/How and Why to Start A Startup - Sam Altman & Dustin Moskovitz - Stanford CS183F Startup School.mp4
+77901532 bytes	2023-02-07 05:42:59.0000000000	/home/abdelwahed/Bureau/OTHERS/07022023/Startup/How to Get Ideas & Measure - Stewart Butterfield of Slack & Adam DAngelo of Quora - Stanford CS183F.mp4
+10223934 bytes	2023-02-07 13:08:14.0000000000	/home/abdelwahed/Bureau/OTHERS/07022023/IA  Cloner sa voix gratuitement ! - [text to speech intelligence artificielle - Coqui ai].mp4
+584108017 bytes	2023-02-09 07:26:54.0000000000	/home/abdelwahed/Bureau/OTHERS/14022023/Deep work by cal newport  full Audiobook.mp4
+142088177 bytes	2023-01-15 14:18:23.0000000000	/home/abdelwahed/Bureau/OTHERS/corans/سورة النساء مكتوبة  ماهر المعيقلي.mp4
+16049719 bytes	2023-01-15 14:15:16.0000000000	/home/abdelwahed/Bureau/OTHERS/corans/الذى خلقنى فهو يهدين  تلاوة مرئية اسطورية للشيخ عبدالباسط عبدالصمد  من سورة الشعراء.mp4
+68197848 bytes	2023-01-03 13:27:01.0000000000	/home/abdelwahed/Bureau/OTHERS/corans/فَلَمَّا جَنَّ عَلَيْهِ اللَّيْلُ  تريح القلب للشيخ المنشاوي.mp4
+69627165 bytes	2023-01-15 14:16:47.0000000000	/home/abdelwahed/Bureau/OTHERS/corans/سورة الشعراء كاملة ماهر المعيقلي مع القراءة  من المصحف الشريف جودة عالية.mp4
+50676956 bytes	2023-01-15 14:17:22.0000000000	/home/abdelwahed/Bureau/OTHERS/corans/سورة العنكبوت مكتوبة  ماهر المعيقلي.mp4
+26136059 bytes	2023-01-15 14:18:53.0000000000	/home/abdelwahed/Bureau/OTHERS/corans/HD آيات الشفاء من كل داء بإذن الله رب الآرض والسماء مع الدعاء.mp4
+46250047 bytes	2023-01-15 14:18:31.0000000000	/home/abdelwahed/Bureau/OTHERS/corans/سورة النمل مكتوبة  ماهر المعيقلي.mp4
+132687819 bytes	2023-01-15 14:17:12.0000000000	/home/abdelwahed/Bureau/OTHERS/corans/سورة آل عمران مكتوبة  ماهر المعيقلي - Surat Al Imran  Maher Al Muaiqly.mp4
+241038326 bytes	2023-01-15 14:16:17.0000000000	/home/abdelwahed/Bureau/OTHERS/corans/سورة البقرة مكتوبة  ماهر المعيقلي.mp4
+30853151 bytes	2023-01-15 14:16:23.0000000000	/home/abdelwahed/Bureau/OTHERS/corans/سورة الروم مكتوبة  ماهر المعيقلي.mp4
+56185599 bytes	2023-01-15 14:16:34.0000000000	/home/abdelwahed/Bureau/OTHERS/corans/سورة الشعراء كاملة بصوت الشيخ أحمد العجمي.mp4
+59057633 bytes	2023-01-15 14:17:32.0000000000	/home/abdelwahed/Bureau/OTHERS/corans/سورة القصص مكتوبة  ماهر المعيقلي.mp4
+10696020 bytes	2023-01-15 14:15:25.0000000000	/home/abdelwahed/Bureau/OTHERS/corans/القارئ ماهر المعيقلي ﴿الَّذي خَلَقَني فَهُوَ يَهدينِ﴾.mp4
+135251949 bytes	2023-01-15 14:17:58.0000000000	/home/abdelwahed/Bureau/OTHERS/corans/سورة المائدة مكتوبة  ماهر المعيقلي - Surat Al Maidah Maher Al Muaiqly.mp4
+18933104 bytes	2023-01-15 14:15:22.0000000000	/home/abdelwahed/Bureau/OTHERS/corans/الشيخ ماهر المعيقلي - سورة يس (النسخة الأصلية)  ( Surat Yasin (Official Audio.mp4
+66474299 bytes	2023-02-08 07:13:58.0000000000	/home/abdelwahed/Bureau/start_C/C_arabic/Excercises/branching exercise.mp4
+64059872 bytes	2023-02-08 07:14:16.0000000000	/home/abdelwahed/Bureau/start_C/C_arabic/Excercises/looping exercise.mp4
+38793392 bytes	2023-02-08 07:07:38.0000000000	/home/abdelwahed/Bureau/start_C/C_arabic/Excercises/sequence exercise.mp4
+101123048 bytes	2023-02-08 08:33:57.0000000000	/home/abdelwahed/Bureau/start_C/C_arabic/كيف تنشى  قائمة مضيئة بالغة السى.mp4
+103663608 bytes	2023-02-08 07:57:03.0000000000	/home/abdelwahed/Bureau/start_C/C_arabic/vues/25/strings as ( array of characters ).mp4
+28346099 bytes	2023-02-08 07:23:15.0000000000	/home/abdelwahed/Bureau/start_C/C_arabic/vues/18/Variable Storage Classes or Lifetime.mp4
+19191123 bytes	2023-02-08 07:21:45.0000000000	/home/abdelwahed/Bureau/start_C/C_arabic/vues/18/Variable Scope or availability.mp4
+69204069 bytes	2023-02-08 07:15:06.0000000000	/home/abdelwahed/Bureau/start_C/C_arabic/vues/18/Functions.mp4
+2595255 bytes	2023-02-08 08:29:29.0000000000	/home/abdelwahed/Bureau/start_C/C_arabic/vues/9/The ( ) Conditional operator.mp4
+48329730 bytes	2023-02-08 08:17:20.0000000000	/home/abdelwahed/Bureau/start_C/C_arabic/vues/32/union - struct bits.mp4
+24831518 bytes	2023-02-08 07:07:23.0000000000	/home/abdelwahed/Bureau/start_C/C_arabic/vues/17/Do While Loop.mp4
+28100122 bytes	2023-02-08 08:29:07.0000000000	/home/abdelwahed/Bureau/start_C/C_arabic/vues/13/Type Conversion and Casting.mp4
+6860988 bytes	2023-02-08 08:31:03.0000000000	/home/abdelwahed/Bureau/start_C/C_arabic/vues/7/Relational Operators.mp4
+80858611 bytes	2023-02-08 07:58:23.0000000000	/home/abdelwahed/Bureau/start_C/C_arabic/vues/28/pointer usages.mp4
+55424058 bytes	2023-02-08 08:16:44.0000000000	/home/abdelwahed/Bureau/start_C/C_arabic/vues/30/arrays of pointer to struct.mp4
+52024853 bytes	2023-02-08 07:36:47.0000000000	/home/abdelwahed/Bureau/start_C/C_arabic/vues/22/Searching.mp4
+63447215 bytes	2023-02-07 13:43:35.0000000000	/home/abdelwahed/Bureau/start_C/C_arabic/vues/2/Variable Definitions.mp4
+37840411 bytes	2023-02-07 13:45:41.0000000000	/home/abdelwahed/Bureau/start_C/C_arabic/vues/3/assignment operator-literals- comments.mp4
+4676625 bytes	2023-02-08 08:28:23.0000000000	/home/abdelwahed/Bureau/start_C/C_arabic/vues/10/operator  precedence- Associativity.mp4
+40144355 bytes	2023-02-08 07:33:02.0000000000	/home/abdelwahed/Bureau/start_C/C_arabic/vues/21/Array Operations.mp4
+48367713 bytes	2023-02-08 07:02:44.0000000000	/home/abdelwahed/Bureau/start_C/C_arabic/vues/15/looping  (for).mp4
+64570016 bytes	2023-02-08 07:37:35.0000000000	/home/abdelwahed/Bureau/start_C/C_arabic/vues/23/ٍٍٍSorting.mp4
+79497911 bytes	2023-02-08 07:56:46.0000000000	/home/abdelwahed/Bureau/start_C/C_arabic/vues/26/introduction to pointer.mp4
+73687748 bytes	2023-02-08 07:27:42.0000000000	/home/abdelwahed/Bureau/start_C/C_arabic/vues/19/Recursion.mp4
+82045101 bytes	2023-02-08 07:28:41.0000000000	/home/abdelwahed/Bureau/start_C/C_arabic/vues/20/Arrays.mp4
+75562799 bytes	2023-02-08 07:57:04.0000000000	/home/abdelwahed/Bureau/start_C/C_arabic/vues/27/pointer different forms.mp4
+11993014 bytes	2023-02-08 08:33:57.0000000000	/home/abdelwahed/Bureau/start_C/C_arabic/vues/4/Arithmetic Operators- Expressions.mp4
+19209786 bytes	2023-02-08 08:31:31.0000000000	/home/abdelwahed/Bureau/start_C/C_arabic/vues/12/Bitwise Operators.mp4
+10023726 bytes	2023-02-08 08:31:44.0000000000	/home/abdelwahed/Bureau/start_C/C_arabic/vues/6/Increment and Decrement Operators.mp4
+19036341 bytes	2023-02-07 13:54:20.0000000000	/home/abdelwahed/Bureau/start_C/C_arabic/vues/14/switch Statement.mp4
+68606397 bytes	2023-02-08 08:22:50.0000000000	/home/abdelwahed/Bureau/start_C/C_arabic/vues/31/linked list - queue - stack.mp4
+10029027 bytes	2023-02-08 08:33:17.0000000000	/home/abdelwahed/Bureau/start_C/C_arabic/vues/5/Assignment operator.mp4
+47429639 bytes	2023-02-08 07:07:08.0000000000	/home/abdelwahed/Bureau/start_C/C_arabic/vues/16/while Statement.mp4
+94967537 bytes	2023-02-08 08:17:38.0000000000	/home/abdelwahed/Bureau/start_C/C_arabic/vues/29/introduction to struct.mp4
+170712072 bytes	2023-02-08 07:44:43.0000000000	/home/abdelwahed/Bureau/start_C/C_arabic/vues/24/two dimensional array.mp4
+67300511 bytes	2023-02-07 13:50:35.0000000000	/home/abdelwahed/Bureau/start_C/C_arabic/vues/11/Branching - if.mp4
+9947956 bytes	2023-02-08 08:30:47.0000000000	/home/abdelwahed/Bureau/start_C/C_arabic/vues/8/Logical Operators.mp4
+95612865 bytes	2023-02-07 13:30:28.0000000000	/home/abdelwahed/Bureau/start_C/C_arabic/vues/1/output – input functions.mp4
+121650275 bytes	2023-02-08 08:22:02.0000000000	/home/abdelwahed/Bureau/start_C/C_arabic/files_in_C/2/files - format input and output ( text - binary ).mp4
+64048716 bytes	2023-02-08 08:21:54.0000000000	/home/abdelwahed/Bureau/start_C/C_arabic/files_in_C/3/files - input - output (record ) & random access.mp4
+95591049 bytes	2023-02-08 08:23:52.0000000000	/home/abdelwahed/Bureau/start_C/C_arabic/files_in_C/1/file streams (char - string).mp4
+95913913 bytes	2023-01-14 06:50:53.0000000000	/home/abdelwahed/Bureau/Subtitle/a/linux.mp4
